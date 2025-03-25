@@ -26,7 +26,7 @@ We use the Breast Cancer Wisconsin dataset from scikit-learn. It includes 30 num
 
 1. Clone this repository:
 ```
-git clone https://github.com/your-username/decision-tree-pruning.git
+git clone https://github.com/Ayushigadhi1160/decision-tree-pruning.git
 cd decision-tree-pruning
 ```
 
@@ -58,7 +58,7 @@ Include the following in your report when submitting the assignment:
 
 ```
 GitHub Repository:
-https://github.com/your-username/decision-tree-pruning
+https://github.com/Ayushigandhi1160/decision-tree-pruning
 ```
 
 Ensure that your repository contains:
